@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\New folder\Athlets Race\Athlets Race\obj\Debug\Athlets Race.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\New folder\Athlets Race\Athlets Race\bin\Debug\Athlets Race.exe.config
+C:\Users\student\Desktop\New folder\Athlets Race\Athlets Race\bin\Debug\Athlets Race.exe
+C:\Users\student\Desktop\New folder\Athlets Race\Athlets Race\bin\Debug\Athlets Race.pdb
+C:\Users\student\Desktop\New folder\Athlets Race\Athlets Race\obj\Debug\Athlets Race.exe
+C:\Users\student\Desktop\New folder\Athlets Race\Athlets Race\obj\Debug\Athlets Race.pdb
+X:\LEVEL 3\Year 2\Kevin\Race mock exam\Georgi\Georgi\Georgi Aleksandrov race code\Athlets Race\Athlets Race\bin\Debug\Athlets Race.exe.config
+X:\LEVEL 3\Year 2\Kevin\Race mock exam\Georgi\Georgi\Georgi Aleksandrov race code\Athlets Race\Athlets Race\bin\Debug\Athlets Race.exe
+X:\LEVEL 3\Year 2\Kevin\Race mock exam\Georgi\Georgi\Georgi Aleksandrov race code\Athlets Race\Athlets Race\bin\Debug\Athlets Race.pdb
+X:\LEVEL 3\Year 2\Kevin\Race mock exam\Georgi\Georgi\Georgi Aleksandrov race code\Athlets Race\Athlets Race\obj\Debug\Athlets Race.csprojResolveAssemblyReference.cache
+X:\LEVEL 3\Year 2\Kevin\Race mock exam\Georgi\Georgi\Georgi Aleksandrov race code\Athlets Race\Athlets Race\obj\Debug\Athlets Race.exe
+X:\LEVEL 3\Year 2\Kevin\Race mock exam\Georgi\Georgi\Georgi Aleksandrov race code\Athlets Race\Athlets Race\obj\Debug\Athlets Race.pdb
